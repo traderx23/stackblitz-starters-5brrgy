@@ -21,8 +21,8 @@ const UPIQRCodeGenerator = ({ upiId, payeeName, amount, currency }) => {
   );
 };
 export default function App() {
-  const upiId = 'pinubhati23@oksbi';
-  const payeeName = 'Ajmal Ali';
+  const upiId = '7300411602@ibl';
+  const payeeName = 'GreenStox';
   const amount = '1.00';
   const currency = 'INR';
   return (
